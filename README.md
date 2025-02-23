@@ -25,7 +25,7 @@ This project presents an interactive **E-commerce Sales Dashboard** designed to 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/ecommerce-sales-dashboard.git
+   git clone https://github.com/gagan2113/Ecommerce_Sale_Dashboard
    ```
 2. Open the Power BI file or load the dataset into your preferred BI tool.
 3. Explore the visualizations and analyze business insights.
@@ -47,5 +47,5 @@ The dataset includes transactional sales data consisting of:
 
 ## Contact
 
-For any inquiries, reach out to [**your-email@example.com**](mailto\:your-email@example.com) or connect via [LinkedIn](https://www.linkedin.com/in/your-profile).
+For any inquiries, reach out to [gaganverma5131@gmail.com](gaganverma5131@gmail.com) or connect via [LinkedIn](https://www.linkedin.com/in/gagan34/).
 
